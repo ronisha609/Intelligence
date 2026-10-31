@@ -20,6 +20,6 @@ The fictional subject, Jayson N. Hamilton, is assessed for possible risk to Pack
 
 ## Portfolio context
 
-This GitHub page mirrors the project overview from my Notion portfolio. The complete report remains in Notion. These are independent learning and analysis projects; fictional scenarios are identified above.
+This GitHub page mirrors the project overview from my Notion portfolio. The complete report remains in Notion. These are independent intelligence labs; fictional scenarios are identified above.
 
 [Back to portfolio](../README.md)
