@@ -1,7 +1,5 @@
 # Foreign Recruitment & Insider Threat
 
-By Ronisha Showers · Independent portfolio project
-
 
 ## Project Overview
 This counterintelligence assessment examines how foreign state-linked remote IT-worker schemes can use false identities, U.S.-based facilitators, laptop farms, and trusted employee access to create insider risk.
@@ -33,7 +31,7 @@ A fictional U.S. technology company unknowingly hires a remote IT worker using a
 - [FBI — North Korean IT Worker Threats to U.S. Businesses](https://www.fbi.gov/investigate/cyber/alerts/2025/north-korean-it-worker-threats-to-u-s-businesses)
 - [FBI — DPRK Leverages U.S.-Based Individuals](https://www.fbi.gov/investigate/cyber/alerts/2024/democratic-peoples-republic-of-korea-leverages-us-based-individuals-to-defraud-us-businesses-and-generate-revenue)
 - [DOJ — Arizona Laptop-Farm Case](https://www.justice.gov/opa/pr/arizona-woman-sentenced-17m-information-technology-worker-fraud-scheme-generated-revenue)
-## Skills Demonstrated
+## Capabilities Demonstrated
 **Counterintelligence analysis, insider-risk assessment, OSINT research, cyber-personnel data fusion, structured analytic judgment, bias control, and decision-focused intelligence writing.**
 ## Final Report
 [Read the complete project and final PDF in Notion](https://app.notion.com/p/3e2816444203817aa641d3368e7778a6?pvs=204)
