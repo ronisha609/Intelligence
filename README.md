@@ -1,6 +1,6 @@
 # Intelligence Analysis & Investigation Labs
 
-This elite intelligence lab portfolio delivers **source-driven assessments** across insider risk, OSINT, protective intelligence, travel intelligence, threat-actor analysis, counterintelligence, and threat hunting.
+This intelligence lab portfolio delivers **source-driven assessments** across insider risk, OSINT, protective intelligence, travel intelligence, threat-actor analysis, counterintelligence, and threat hunting.
 
 Each lab transforms fragmented public information and technical evidence into defensible judgments, calibrated confidence, intelligence gaps, escalation triggers, and decisive operational support. The work fuses cybersecurity, digital forensics, and investigative analysis into rigorous intelligence tradecraft.
 
