@@ -1,8 +1,8 @@
 # Intelligence Analysis & Investigation Labs
 
-This intelligence lab portfolio delivers **source-driven assessments** across insider risk, OSINT, protective intelligence, travel intelligence, threat-actor analysis, counterintelligence, and threat hunting.
+This portfolio delivers **operational intelligence assessments** across insider risk, OSINT, protective intelligence, travel intelligence, threat-actor analysis, counterintelligence, and threat hunting.
 
-Each lab transforms fragmented public information and technical evidence into defensible judgments, calibrated confidence, intelligence gaps, escalation triggers, and decisive operational support. The work fuses cybersecurity, digital forensics, and investigative analysis into rigorous intelligence tradecraft.
+Each lab fuses fragmented public information and technical evidence to expose risk, challenge assumptions, identify intelligence gaps, trigger escalation, and drive informed action. The work combines cybersecurity, digital forensics, and investigations into disciplined intelligence tradecraft.
 
 [Full Notion portfolio](https://app.notion.com/p/3cd81644420380669bf8e68cab6082bf) · [LinkedIn](https://www.linkedin.com/in/ronisha-showers) · [Cybersecurity labs](https://github.com/ronisha609/CyberSecurity)
 
