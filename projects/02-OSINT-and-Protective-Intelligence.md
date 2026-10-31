@@ -1,7 +1,5 @@
 # OSINT & Protective Intelligence
 
-By Ronisha Showers · Independent portfolio project
-
 
 ## Project Overview
 This protective-intelligence assessment examines a fictional external threat against Pack Defense using verified details from the Flock Safety case as its real-world foundation.
@@ -14,7 +12,7 @@ The fictional subject, Jayson N. Hamilton, is assessed for possible risk to Pack
 - Likelihood and potential impact
 - Intelligence gaps and confidence levels
 - Protective-security recommendations and escalation triggers
-## Skills Demonstrated
+## Capabilities Demonstrated
 **OSINT research, protective-intelligence analysis, behavioral-threat assessment, source validation, structured judgment, intelligence-gap identification, and security recommendations.**
 ## Final Report
 [Read the complete project and final PDF in Notion](https://app.notion.com/p/3cd81644420380469640ceffa6517bdf?pvs=204)
