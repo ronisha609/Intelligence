@@ -1,7 +1,5 @@
 # Travel Intelligence & Counterintelligence Awareness
 
-By Ronisha Showers · Independent portfolio project
-
 ## Project Overview
 
 A GSOC travel-intelligence brief for a fictional four-person company delegation attending a leadership seminar in Cancun, December 10–15, 2026. Real locations and public reporting support the scenario; the employer, event, and travelers are fictional.
@@ -14,7 +12,7 @@ A GSOC travel-intelligence brief for a fictional four-person company delegation 
 - Threat matrix, daily monitoring, escalation triggers, and reassessment
 - Separation of facts, assumptions, assessments, confidence, and traveler-review signals
 
-## Skills Demonstrated
+## Capabilities Demonstrated
 
 GSOC analysis, OSINT, GEOINT, travel-risk assessment, counterintelligence awareness, intelligence writing, and decision support.
 
