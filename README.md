@@ -1,14 +1,14 @@
-# Intelligence & Investigation Portfolio | Ronisha Showers
+# Intelligence Analysis & Investigation Labs | Ronisha Showers
 
-Projects covering insider risk, OSINT, protective intelligence, travel intelligence, threat-actor analysis, and threat hunting.
+This lab portfolio produces **source-driven intelligence assessments** across insider risk, OSINT, protective intelligence, travel intelligence, threat-actor analysis, counterintelligence awareness, and threat hunting.
 
-I’m a cybersecurity analyst with a background in network security, digital forensics, and investigative work. I’m interested in understanding who is behind suspicious activity, how they gain access, and what the evidence actually supports.
+Each lab converts public information and technical evidence into structured judgments, confidence levels, intelligence gaps, escalation triggers, and practical decision support. The work connects my cybersecurity, digital-forensics, and investigative background to real intelligence tradecraft.
 
 [Full Notion portfolio](https://app.notion.com/p/3cd81644420380669bf8e68cab6082bf) · [LinkedIn](https://www.linkedin.com/in/ronisha-showers) · [Cybersecurity labs](https://github.com/ronisha609/CyberSecurity)
 
-## Choose a Project
+## Intelligence Lab Directory
 
-| Project | What it’s about | Skills shown |
+| Lab | Intelligence objective | Skills demonstrated |
 | --- | --- | --- |
 | [Foreign Recruitment & Insider Risk](projects/01-Foreign-Recruitment-and-Insider-Risk.md) | A fictional remote IT-worker scheme involving false identities, facilitators, and trusted employee access, grounded in documented DPRK cases. | Insider-risk assessment, connecting personnel and technical records, and checking alternative explanations |
 | [Travel Intelligence & CI Awareness](projects/05-Travel-Intelligence-and-CI-Awareness.md) | A fictional Cancun delegation brief connecting traveler exposure, elicitation, location context, monitoring, and escalation. | GSOC analysis, OSINT, GEOINT, travel risk, and decision support |
@@ -16,7 +16,7 @@ I’m a cybersecurity analyst with a background in network security, digital for
 | [LockBit Threat Actor Analysis](projects/03-LockBit-Threat-Actor-Analysis.md) | Research into LockBit’s motivations, targets, and attack methods, connected to organizational risk. | Threat-actor research, source evaluation, and defensive recommendations |
 | [Defender & EDR Threat Hunt](projects/04-Defender-and-EDR-Threat-Hunt.md) | A hunt and detection project for MITRE ATT&CK T1562.001, focused on weakening endpoint defenses. | Hunt hypotheses, telemetry selection, detection logic, false positives, and escalation |
 
-## How I Approach Analysis
+## Analytic Tradecraft Demonstrated
 
 - Connect technical activity with identity, access, and behavior.
 - Consider other explanations before drawing a conclusion.
@@ -24,6 +24,6 @@ I’m a cybersecurity analyst with a background in network security, digital for
 - Explain what information is missing and how to check it.
 - Turn findings into practical next steps.
 
-## About This Work
+## Lab Standards
 
-These are independent portfolio projects. Fictional scenarios are clearly identified on their project pages. GitHub contains project overviews; complete reports and sources remain in Notion, where access depends on sharing settings.
+These are independent intelligence labs built for portfolio demonstration. Each lab separates verified facts, assumptions, analytical judgments, confidence, and collection gaps. Fictional scenarios are clearly labeled, while supporting evidence is grounded in reliable public sources. GitHub provides the lab overviews; full reports and source documentation are maintained in Notion.
